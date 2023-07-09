@@ -1,3 +1,11 @@
+Nama Kelompok:
+- Dimas maulana 411201008
+- Nurul Izzah Syafariyah 411201120
+- Raditya Danu Erlangga 411201018
+- Agitalia Sonata 41119001
+- nafa julia dharma 411201119
+- Nengsiana 411201050
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
